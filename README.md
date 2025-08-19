@@ -1,6 +1,6 @@
 # # Hello World, I'm dilxVXII 👋
 
-![Banner](https://i.ibb.co/6RbYmnw/ultrax-banner.png)
+![Banner](https://ibb.co/chwKfc72)
 
 Hi, I’m a passionate **Junior Developer** who loves building Telegram bots, web scrapers, and APIs.  
 I enjoy experimenting with new technologies like **Node.js, Express, Baileys**, and exploring **security tools**.  
