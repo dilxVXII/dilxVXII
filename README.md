@@ -16,7 +16,7 @@ My mission is to create tools that are efficient, scalable, and useful for devel
 ## 🛠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,cpp, py,html,css,git,nginx,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,py,html,css,git,nginx,mongodb" />
   </a>
 </p>
 
