@@ -1,11 +1,10 @@
-# Hello World, I'm dilxVXII 👋
+# # Hello World, I'm dilxVXII 👋
 
-![Banner](https://i.ibb.co/ScRknJ7/github-banner.png)
+![Banner](https://i.ibb.co/6RbYmnw/ultrax-banner.png)
 
 Hi, I’m a passionate **Junior Developer** who loves building Telegram bots, web scrapers, and APIs.  
 I enjoy experimenting with new technologies like **Node.js, Express, Baileys**, and exploring **security tools**.  
-My mission is to create tools that are efficient, scalable, and useful for developers and the community 🚀💻  
-
+My mission is to create tools that are efficient, scalable, and useful for developers and the community 🚀💻
 ---
 
 ### 🌐 Connect With Me
