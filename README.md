@@ -16,7 +16,7 @@ My mission is to create tools that are efficient, scalable, and useful for devel
 ## 🛠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,py,html,css,git,nginx,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,c++, py,html,css,git,nginx,mongodb" />
   </a>
 </p>
 
@@ -31,8 +31,8 @@ My mission is to create tools that are efficient, scalable, and useful for devel
 ---
 
 ## 💡 Highlight Projects
-- 🔹 **UltraBypass v2.5** – Telegram bot with bypass, deobfuscation, and token system  
-- 🔹 **UltraX WebAPI** – WhatsApp multi-device API with session manager  
+- 🔹 **UltraXBypass** – Telegram bot with bypass, deobfuscation, and token system  
+- 🔹 **UltraXWebAPI** – WhatsApp multi-device API with session manager  
 - 🔹 **Ultra Tools Engine** – Developer & security utilities  
 
 ---
